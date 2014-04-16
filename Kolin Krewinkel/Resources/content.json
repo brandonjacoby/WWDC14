@@ -541,7 +541,7 @@
 				},
 				{
 					"type": "text",
-					"data": "Joining some of the best developers in the world, I'll be interning at Facebook in the summer of 2014.\n\nAfter discovering my work on GitHub, a \"social coding\" site, Facebook reached out to me. After a series of interviews, I was invited me to their team.\n\nJuggling the end of sophomore year and a class-related summer program (potentially even WWDC), I'll join the fast-moving community at Facebook Headquarters, Menlo Park.\n\nHopefully I won't break too many things in the process.",
+					"data": "Joining some of the best developers in the world, I'll be interning at Facebook in the summer of 2014.\n\nAfter discovering my work on GitHub, a \"social coding\" site, Facebook reached out to me. After a series of interviews, I was to their team.\n\nJuggling the end of sophomore year and a class-related summer program (potentially even WWDC), I'll join the fast-moving community at Facebook Headquarters, Menlo Park.\n\nHopefully I won't break too many things in the process.",
 					"identifier": "description",
 					"alignment": "left",
 					"font": {
